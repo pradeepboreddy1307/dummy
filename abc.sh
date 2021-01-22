@@ -1,1 +1,2 @@
-This is to check stash command
+this is to merge only one commit
+
